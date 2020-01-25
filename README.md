@@ -1,3 +1,3 @@
 # 2071cse0471
-setion7
-presidencyuniversity
+hi
+presidency
