@@ -1,0 +1,8 @@
+<html>
+<head><title>Background_image</title></head>
+<body style="background-image: url('/home/Sem6B7/Downloads/workplace.jpg');
+background-repeat:repeat;
+background-position:5px 100px;">
+<h2>Background in=mage</h2>
+</body>
+</html>
