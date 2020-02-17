@@ -1,0 +1,10 @@
+<html>
+<head><title>inline css</title>
+</head>
+<body>
+<h1 style="color:red;font-size:40pt">Welcome to css</h1>
+<p style="color:blue;font-size:15pt">Hello World!</p>
+<p>This paragraph is styled with CSS.</p>
+<p>CSS coments are not shown in this output</p>
+</body>
+</html>
